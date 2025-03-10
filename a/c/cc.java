@@ -6,4 +6,4 @@ public class cc {
     System.out.println("Hi");
     Message();
   }
-}
+} 

@@ -13,7 +13,7 @@ public class maxindex {
     System.out.println(Arrays.toString(arr));
     System.out.println("Max of list is "+ arr[max(arr)]+" at index "+ max(arr));
 
-  }
+  } 
 
   static int max(int[] list){
     int temp=0;

@@ -35,5 +35,5 @@ public class arrays {
           System.out.println(Arrays.toString(arr1));
       }
 }
-}
+} 
 

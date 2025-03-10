@@ -7,7 +7,7 @@ public class greeting {
     String personalized = greet(sc.nextLine());
     System.out.println(personalized);
   }
-
+ 
   static String greet(String name){
     String message ="Hello " + name;
     return message;

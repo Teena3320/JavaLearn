@@ -11,4 +11,4 @@ public class trial {
           default -> System.out.println("Invalid input");
       }
     }
-  }
+  } 

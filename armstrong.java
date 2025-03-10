@@ -7,7 +7,7 @@ public class armstrong {
     System.out.print("Enter number to check whether armstrong or not: ");
     int n = sc.nextInt();
     System.out.println(isArmstrong(n));
-
+ 
   }
 
   static boolean isArmstrong(int n){

@@ -15,7 +15,7 @@ public class staticclass {   //outside class not static ever
   //     innerclass.name=name;
   //   }
   // }
-
+ 
 
   public static void main(String[] args) {
     innerclass a = new innerclass("teena");

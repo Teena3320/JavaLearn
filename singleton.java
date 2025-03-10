@@ -10,4 +10,4 @@ public class singleton {//constructor should not be used
     }
     return instance;
   }
-}
+} 

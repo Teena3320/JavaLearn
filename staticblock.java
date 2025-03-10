@@ -14,5 +14,5 @@ public class staticblock {
     staticblock obj2= new staticblock();
     System.out.println(staticblock.a+" "+staticblock.b);
   }
-
+ 
 }

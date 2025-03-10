@@ -14,7 +14,7 @@ public class sum {
 
     int sum=n1+n2;
     System.out.println("Sum of "+n1 +" & "+ n2 +": " +sum);
-
+ 
   }
   static int sum(int a, int b){
     int sum=a+b;

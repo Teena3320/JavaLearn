@@ -7,7 +7,7 @@ public class prime {
     int n = sc.nextInt();
     System.out.println(isPrime(n));
   }
-
+ 
   static boolean isPrime(int n){
     if (n<=1){
       return false;
